@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0c6026-5459-41ae-9952-3fd833252c83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLSzJqrbkkyDMQRL4rVKD4DqgQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.092678405" />
+    <property name="project.structure.side.proportion" value="0.41573033" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\selenium-ecommerce\imgs\paginaWebPay" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Business" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\selenium-ecommerce\DataXml" />
+      <recent name="C:\git\selenium-ecommerce\src\test\java\Core\Excel" />
+      <recent name="C:\git\selenium-ecommerce\src\test" />
+      <recent name="C:\git\selenium-ecommerce\src\test\java" />
+      <recent name="C:\git\selenium-ecommerce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: realizar proceso ecommers prepago">
+    <configuration name="Feature: hogar" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Script/hogar.feature" />
+      <option name="GLUE" value="Business" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="selenium-ecommerce" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: hogar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: postpago" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Script/postpago.feature" />
+      <option name="GLUE" value="Business" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="selenium-ecommerce" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: postpago" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: prepago" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Script/prepago.feature" />
+      <option name="GLUE" value="Business" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="selenium-ecommerce" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: prepago" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Escenario: realizar proceso ecommers prepago" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Script/prepago.feature" />
+      <option name="GLUE" value="Business" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="selenium-ecommerce" />
+      <option name="NAME_FILTER" value="^Escenario\: realizar proceso ecommers prepago$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Escenario\: realizar proceso ecommers prepago$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Escenario: realizar proceso ecommers prepago" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: realizar proceso ecommers prepago" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Script/postpago.feature" />
+      <option name="GLUE" value="Business" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="selenium-ecommerce" />
+      <option name="NAME_FILTER" value="^realizar proceso ecommers prepago$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^realizar proceso ecommers prepago$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: realizar proceso ecommers prepago" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: realizar proceso ecommers prepago" />
+        <item itemvalue="Cucumber Java.Feature: postpago" />
+        <item itemvalue="Cucumber Java.Feature: prepago" />
+        <item itemvalue="Cucumber Java.Scenario: Escenario: realizar proceso ecommers prepago" />
+        <item itemvalue="Cucumber Java.Feature: hogar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0c6026-5459-41ae-9952-3fd833252c83" name="Default Changelist" comment="" />
+      <created>1582558820855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582558820855</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-729" y="235" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1600785093696">
+      <screen x="-1024" y="55" width="1024" height="687" />
+    </state>
+    <state x="-729" y="235" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600785093695" />
+    <state x="-732" y="153" key="FileChooserDialogImpl" timestamp="1597426522622">
+      <screen x="-1024" y="55" width="1024" height="687" />
+    </state>
+    <state x="-732" y="153" key="FileChooserDialogImpl/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1597426522622" />
+    <state width="1317" height="258" key="GridCell.Tab.0.bottom" timestamp="1604495176650">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="981" height="246" key="GridCell.Tab.0.bottom/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600803820784" />
+    <state width="1317" height="246" key="GridCell.Tab.0.bottom/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420957" />
+    <state width="981" height="258" key="GridCell.Tab.0.bottom/0.0.1360.728/-1024.55.1024.687@-1024.55.1024.687" timestamp="1604433660363" />
+    <state width="1317" height="258" key="GridCell.Tab.0.bottom/0.0.1360.728/-1024.55.1024.687@0.0.1360.728" timestamp="1604495176650" />
+    <state width="1317" height="258" key="GridCell.Tab.0.center" timestamp="1604495176650">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="981" height="246" key="GridCell.Tab.0.center/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600803820784" />
+    <state width="1317" height="246" key="GridCell.Tab.0.center/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420956" />
+    <state width="981" height="258" key="GridCell.Tab.0.center/0.0.1360.728/-1024.55.1024.687@-1024.55.1024.687" timestamp="1604433660363" />
+    <state width="1317" height="258" key="GridCell.Tab.0.center/0.0.1360.728/-1024.55.1024.687@0.0.1360.728" timestamp="1604495176650" />
+    <state width="1317" height="258" key="GridCell.Tab.0.left" timestamp="1604495176650">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="981" height="246" key="GridCell.Tab.0.left/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600803820783" />
+    <state width="1317" height="246" key="GridCell.Tab.0.left/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420956" />
+    <state width="981" height="258" key="GridCell.Tab.0.left/0.0.1360.728/-1024.55.1024.687@-1024.55.1024.687" timestamp="1604433660362" />
+    <state width="1317" height="258" key="GridCell.Tab.0.left/0.0.1360.728/-1024.55.1024.687@0.0.1360.728" timestamp="1604495176650" />
+    <state width="1317" height="258" key="GridCell.Tab.0.right" timestamp="1604495176650">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="981" height="246" key="GridCell.Tab.0.right/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600803820784" />
+    <state width="1317" height="246" key="GridCell.Tab.0.right/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420956" />
+    <state width="981" height="258" key="GridCell.Tab.0.right/0.0.1360.728/-1024.55.1024.687@-1024.55.1024.687" timestamp="1604433660363" />
+    <state width="1317" height="258" key="GridCell.Tab.0.right/0.0.1360.728/-1024.55.1024.687@0.0.1360.728" timestamp="1604495176650" />
+    <state width="1317" height="206" key="GridCell.Tab.1.bottom" timestamp="1601042420184">
+      <screen x="0" y="0" width="1360" height="687" />
+    </state>
+    <state width="981" height="206" key="GridCell.Tab.1.bottom/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600785058486" />
+    <state width="1317" height="206" key="GridCell.Tab.1.bottom/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420184" />
+    <state width="1317" height="206" key="GridCell.Tab.1.center" timestamp="1601042420184">
+      <screen x="0" y="0" width="1360" height="687" />
+    </state>
+    <state width="981" height="206" key="GridCell.Tab.1.center/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600785058486" />
+    <state width="1317" height="206" key="GridCell.Tab.1.center/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420184" />
+    <state width="1317" height="206" key="GridCell.Tab.1.left" timestamp="1601042420184">
+      <screen x="0" y="0" width="1360" height="687" />
+    </state>
+    <state width="981" height="206" key="GridCell.Tab.1.left/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600785058486" />
+    <state width="1317" height="206" key="GridCell.Tab.1.left/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420184" />
+    <state width="1317" height="206" key="GridCell.Tab.1.right" timestamp="1601042420184">
+      <screen x="0" y="0" width="1360" height="687" />
+    </state>
+    <state width="981" height="206" key="GridCell.Tab.1.right/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600785058486" />
+    <state width="1317" height="206" key="GridCell.Tab.1.right/0.0.1360.687/-1024.55.1024.687@0.0.1360.687" timestamp="1601042420184" />
+    <state x="-856" y="180" key="run.anything.popup" timestamp="1600802718820">
+      <screen x="-1024" y="55" width="1024" height="687" />
+    </state>
+    <state x="-856" y="180" key="run.anything.popup/0.0.1360.687/-1024.55.1024.687@-1024.55.1024.687" timestamp="1600802718820" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/StepsPostPago.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/SteapsHogar.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Business/StepsPrepago.java</url>
+          <line>296</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

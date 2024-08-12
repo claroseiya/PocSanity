@@ -1,0 +1,1 @@
+{"uuid":"1738e62b-9830-4768-a9d5-c5631cbed2ce","name":"Core.Operaciones.TestngCore","children":["7566aae2-2304-4c36-ad9f-42885d14aefb"],"befores":[{"name":"beforeSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722455995538,"stop":1722455995548}],"afters":[],"links":[],"start":1722455995499,"stop":1722455997566}
